@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Click [here](https://nxttrendzyshop.ccbp.tech/) to visit website
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
